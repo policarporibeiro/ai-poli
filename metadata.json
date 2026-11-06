@@ -1,0 +1,6 @@
+{
+  "name": "Ateliê Maker & Arte - Planejador Pedagógico",
+  "description": "Assistente inteligente para educadores criarem planos de oficinas e projetos pedagógicos integrando Cultura Maker, Arte Contemporânea, Arte Povera, STEAM e tecnologias acessíveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
